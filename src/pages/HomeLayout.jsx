@@ -1,4 +1,4 @@
-import { Footer, Navbar } from "../components";
+import { CTA, Footer, Navbar } from "../components";
 import { motion, MotionConfig, useReducedMotion } from "framer-motion";
 import { Home } from "../components/Home";
 
@@ -21,6 +21,8 @@ function HomeLayout() {
           <main className="w-full flex-auto">
             <Home />
           </main>
+          {/* CTA */}
+          <CTA />
           {/* Footer */}
           <Footer />
         </motion.div>

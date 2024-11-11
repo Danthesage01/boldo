@@ -22,6 +22,7 @@ export default {
         green: "#65E4A3",
         otherGreen: "#69E6A6",
         lightGrey: "#F1F1F1",
+        darkGrey: "#777777",
         darkBlue: "#0A2640",
         greyBlue: "#6A7BA2",
         white: "#FFFFFF",

@@ -8,7 +8,7 @@ const Hero = () => {
     <div className="w-full  hero_box_bg ">
       <div className="w-full md:pb-0 pb-20  hero_box_bg  heroRightBg ">
         <Container>
-          <div className="flex flex-col lg:flex-row justify-between items-center pt-28 lg:py-28 ">
+          <div className="flex flex-col lg:flex-row justify-between items-center gap-4 md:gap-6  xl:gap-0 pt-28 lg:py-28 ">
             <FadeIn>
               <div className=" items-baseline flex flex-col gap-1 lg:gap-4 lg:pt-12">
                 <h2 className="text-xxl-48 font-bold font-heading text-[#000000] w-[95%] lg:w-[601px] lg:text-left text-center">
@@ -39,7 +39,7 @@ const Hero = () => {
             </FadeIn>
 
             <FadeIn>
-              <div className="w-full lg:h-[500px] bg-red-50  lg:justify-end lg:flex">
+              <div className="w-full lg:h-[500px]  lg:justify-end lg:flex">
                 <img
                   src={HeroGraphics}
                   alt="resume loading"

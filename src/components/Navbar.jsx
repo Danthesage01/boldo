@@ -101,12 +101,12 @@ const Navbar = ({ logout, userData, toggleOpen }) => {
               <li className="md:mb-0 mb-4 flex_center">
                 <div className="md:mr-4 mr-0">
                   <Link
-                    to="/product"
+                    to="/products"
                     className={` cursor-pointer ${textColor} font-paragraph font-semibold hover:opacity-80 text-s-20 md:text-xs-16  lg:${
                       window.scrollY > 50 ? "text-white" : "text-darkBlue"
                     }`}
                   >
-                    Product
+                    Products
                   </Link>
                 </div>
               </li>

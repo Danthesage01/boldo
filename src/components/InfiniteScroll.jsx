@@ -8,92 +8,92 @@ function InfiniteScroll() {
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8 w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={boldo}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8  w-full max-w-none"
         />
         <img
           src={presto}
           alt="img"
-          className="h-8 lg:h-10 w-full max-w-none"
+          className="h-8 w-full max-w-none"
         />
       </div>
     </div>

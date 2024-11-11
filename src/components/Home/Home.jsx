@@ -1,3 +1,4 @@
+import Blog from "./Blog";
 import Hero from "./Hero";
 import OurServices from "./OurServices";
 
@@ -6,6 +7,7 @@ const Home = () => {
     <div>
       <Hero />
       <OurServices />
+      <Blog />
       {/* <BeyondResumes /> */}
       {/* <JoinCommunity /> */}
     </div>

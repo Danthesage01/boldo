@@ -30,10 +30,11 @@ const router = createBrowserRouter([
         errorElement: <Error />,
       },
       {
-        path: "/product",
-        element: <ComingSoon page="products Page" />,
+        path: "/products",
+        element: <ComingSoon page="Products Page" />,
         errorElement: <Error />,
       },
+
       {
         path: "/about",
         element: <ComingSoon page="About Page" />,
@@ -45,7 +46,7 @@ const router = createBrowserRouter([
         errorElement: <Error />,
       },
       {
-        path: "/blog",
+        path: "/blogs",
         element: <ComingSoon page="Blog Page" />,
         errorElement: <Error />,
       },
