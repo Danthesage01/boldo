@@ -1,7 +1,7 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { HomeLayout, Error } from "./pages";
 
-import { PublicRoutesLayout } from "./Layout/PublicRoutesLayout";
+import { PublicRoutesLayout } from "./layout/PublicRoutesLayout";
 import PublicRoute from "./components/PublicRoute";
 import { ComingSoon } from "./components";
 
