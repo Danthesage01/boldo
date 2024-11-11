@@ -277,7 +277,7 @@ const OurServices = () => {
       <div className=" bg-white pt-14 md:pb-4">
         <FadeIn>
           <Container>
-            <div className="md:my-8 w-full md:px-12">
+            <div className="md:my-8 w-full ">
               <img
                 src={faq}
                 alt="male pix"
